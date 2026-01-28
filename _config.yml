@@ -1,0 +1,21 @@
+# Jekyll configuration for GitHub Pages
+title: PDF Utility - Legal Documentation
+description: Privacy Policy and Terms of Service for PDF Utility app
+author: Rod
+email: sauverdhinoka@gmail.com
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+# URLs
+url: "https://rodriguez7.github.io"
+baseurl: "/pdfutility-legal"
+
+# Exclude files
+exclude:
+  - README.md
+    - Gemfile
+      - Gemfile.lock
