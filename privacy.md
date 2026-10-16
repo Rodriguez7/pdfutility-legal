@@ -1,12 +1,12 @@
-# Privacy Policy for PDF Utility
+# Privacy Policy for Paperly
 
-**Effective Date:** January 28, 2026  
+**Effective Date:** October 17, 2026  
 **Developer:** Rod  
 **Contact:** sauverdhinoka@gmail.com
 
 ## Introduction
 
-This Privacy Policy describes how PDF Utility ("we", "our", or "the app") collects, uses, and shares information when you use our mobile application.
+This Privacy Policy describes how Paperly ("we", "our", or "the app") collects, uses, and shares information when you use our mobile application.
 
 ## Information We Collect
 
@@ -21,7 +21,7 @@ This Privacy Policy describes how PDF Utility ("we", "our", or "the app") collec
         - - **Your Control:** You have complete control over your files and can delete them at any time.
          
           - ### 3. Subscription Information (RevenueCat)
-          - - **Purpose:** We use RevenueCat to manage in-app subscriptions (monthly and yearly plans).
+          - - **Purpose:** We use RevenueCat to manage in-app subscriptions (a yearly plan).
             - - **Data Collected:** RevenueCat may collect purchase history, subscription status, and device identifiers to manage your subscription.
               - - **Third-Party Policy:** RevenueCat's data practices are governed by their privacy policy: https://www.revenuecat.com/privacy
                
@@ -51,7 +51,7 @@ This Privacy Policy describes how PDF Utility ("we", "our", or "the app") collec
                                        
                                         - ## Children's Privacy
                                        
-                                        - PDF Utility is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+                                        - Paperly is not intended for children under 13. We do not knowingly collect personal information from children under 13.
                                        
                                         - ## Your Rights
                                        
@@ -72,4 +72,4 @@ This Privacy Policy describes how PDF Utility ("we", "our", or "the app") collec
                                                
                                                 - ---
 
-                                                *Last updated: January 28, 2026*          
+                                                *Last updated: October 17, 2026*          

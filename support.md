@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Support - PDF Utility Tool
+title: Support - Paperly
 ---
 
-# PDF Utility Tool - Support
+# Paperly - Support
 
-Welcome to the support page for **PDF Utility Tool**. We are here to help you with any questions or issues you may encounter.
+Welcome to the support page for **Paperly**. We are here to help you with any questions or issues you may encounter.
 
 ## Frequently Asked Questions
 
-### What can PDF Utility Tool do?
-PDF Utility Tool allows you to merge, split, compress, convert, and secure PDF documents directly on your device.
+### What can Paperly do?
+Paperly allows you to merge, split, compress, convert, and secure PDF documents directly on your device.
 
 ### Is my data safe?
 Yes. All PDF processing happens locally on your device. We do not upload or store your files on any external servers.
@@ -18,7 +18,7 @@ Yes. All PDF processing happens locally on your device. We do not upload or stor
 ### How do I manage my subscription?
 You can manage or cancel your subscription at any time through your iPhone Settings:
 1. Go to **Settings** > **[Your Name]** > **Subscriptions**
-2. 2. Select **PDF Utility Tool**
+2. 2. Select **Paperly**
    3. 3. Tap **Cancel Subscription** if you wish to cancel
      
       4. ### How do I restore my purchases?

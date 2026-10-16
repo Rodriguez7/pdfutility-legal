@@ -1,11 +1,11 @@
-# PDF Utility - Legal Documents
+# Paperly - Legal Documents
 
-Welcome to the legal documentation for **PDF Utility**.
+Welcome to the legal documentation for **Paperly**.
 
 ## Important Documents
 
 ### [Privacy Policy](privacy)
-Learn about how we collect, use, and protect your data when using PDF Utility.
+Learn about how we collect, use, and protect your data when using Paperly.
 
 **Key Points:**
 - All PDF processing happens on your device
@@ -15,7 +15,7 @@ Learn about how we collect, use, and protect your data when using PDF Utility.
       - - Camera and photo library access for document scanning
        
         - ### [Terms of Service](terms)
-        - Read the terms and conditions for using PDF Utility.
+        - Read the terms and conditions for using Paperly.
        
         - **Key Points:**
         - - Free and premium subscription options

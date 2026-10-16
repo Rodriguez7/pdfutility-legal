@@ -1,16 +1,16 @@
-# Terms of Service for PDF Utility
+# Terms of Service for Paperly
 
-**Effective Date:** January 28, 2026  
+**Effective Date:** October 17, 2026  
 **Developer:** Rod  
 **Contact:** sauverdhinoka@gmail.com
 
 ## Acceptance of Terms
 
-By downloading, installing, or using PDF Utility ("the app"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the app.
+By downloading, installing, or using Paperly ("the app"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the app.
 
 ## License
 
-PDF Utility grants you a limited, non-exclusive, non-transferable, revocable license to use the app for personal or commercial purposes in accordance with these Terms.
+Paperly grants you a limited, non-exclusive, non-transferable, revocable license to use the app for personal or commercial purposes in accordance with these Terms.
 
 ## Subscription Services
 
@@ -20,7 +20,7 @@ PDF Utility grants you a limited, non-exclusive, non-transferable, revocable lic
   - - Ads displayed via Google AdMob
    
     - ### Premium Subscription
-    - - Monthly and yearly subscription plans available through in-app purchase
+    - - A yearly subscription plan (Paperly Pro) is available through in-app purchase and removes advertisements
       - - Ad-free experience
         - - Access to premium features
           - - Subscriptions managed through RevenueCat
@@ -83,7 +83,7 @@ PDF Utility grants you a limited, non-exclusive, non-transferable, revocable lic
                                                                      
                                                                       - ## Intellectual Property
                                                                      
-                                                                      - - PDF Utility and all associated trademarks, logos, and content are owned by Rod
+                                                                      - - Paperly and all associated trademarks, logos, and content are owned by Rod
                                                                         - - You may not use our trademarks or branding without permission
                                                                           - - The app's source code and design are protected by copyright and other intellectual property laws
                                                                            
@@ -131,8 +131,8 @@ PDF Utility grants you a limited, non-exclusive, non-transferable, revocable lic
                                                                                                        
                                                                                                         9. ## Entire Agreement
                                                                                                        
-                                                                                                        10. These Terms, together with our Privacy Policy, constitute the entire agreement between you and Rod regarding the use of PDF Utility.
+                                                                                                        10. These Terms, together with our Privacy Policy, constitute the entire agreement between you and Rod regarding the use of Paperly.
                                                                                                        
                                                                                                         11. ---
                                                                                                        
-                                                                                                        12. *Last updated: January 28, 2026*
+                                                                                                        12. *Last updated: October 17, 2026*
