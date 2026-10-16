@@ -15,7 +15,7 @@ Paperly grants you a limited, non-exclusive, non-transferable, revocable license
 ## Subscription Services
 
 ### Free Version
-- The app offers a free version with basic features supported by advertisements
+- Every tool in the app is free to use, supported by advertisements
 - - Access to core PDF creation and editing features
   - - Ads displayed via Google AdMob
    
